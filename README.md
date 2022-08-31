@@ -4,6 +4,4 @@ Customer Churn (ou Rotatividade de Clientes, em uma tradução livre) refere-se 
 
 Este é um projeto de uma Competição de previsão da comunidade do kaggle [Customer Churn Prediction 2020](https://www.kaggle.com/competitions/customer-churn-prediction-2020/overview/description) e o objetivo é prever se um cliente mudará de provedor de telecomunicações.
 
-Projeto desenvolvido com Algoritmo de Aprendizagem Supervisionada LGBM de Classificação onde o modelo indica "sim" para os clientes que tem uma alta probabilidade de mudança.
-
 Score do modelo na Competição do Kaggle: 0.96571.
